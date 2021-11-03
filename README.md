@@ -35,7 +35,7 @@ command-line hexadecimal editor able to open disk files,
 but later added support for analyzing binaries, disassembling
 code, debugging programs, attaching to remote gdb servers...
 
-radare2 is portable.
+radare2 is portable AF.
 
 To learn more on radare2 you may want to read the [official radare2 book](https://book.rada.re).
 
